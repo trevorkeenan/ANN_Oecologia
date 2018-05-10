@@ -1,5 +1,8 @@
 # ANN code for Albert et al. Oecologia
 
+Written and developed by:
+Loren Albert
+Trevor F. Keenan
 
 General ANN settings:
 
